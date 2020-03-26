@@ -1,0 +1,16 @@
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Persistence.deps.json
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Persistence.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\obj\Debug\netcoreapp2.2\InterviewTest.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\obj\Debug\netcoreapp2.2\InterviewTest.Persistence.AssemblyInfoInputs.cache
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\obj\Debug\netcoreapp2.2\InterviewTest.Persistence.AssemblyInfo.cs
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\obj\Debug\netcoreapp2.2\InterviewTest.Persistence.csprojAssemblyReference.cache
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Persistence.runtimeconfig.json
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Persistence.runtimeconfig.dev.json
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Persistence.pdb
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Application.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Domain.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Application.pdb
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\bin\Debug\netcoreapp2.2\InterviewTest.Domain.pdb
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\obj\Debug\netcoreapp2.2\InterviewTest.Persistence.csproj.CopyComplete
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\obj\Debug\netcoreapp2.2\InterviewTest.Persistence.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Persistence\obj\Debug\netcoreapp2.2\InterviewTest.Persistence.pdb

@@ -1,0 +1,20 @@
+<form class="form-inline" [formGroup]="form">
+  <div class="form-group mx-sm-3 mb-2">
+    <input type="text" class="form-control" formControlName="searchBox" id="searchBox" placeholder="Search by full name or group name"
+           [ngClass]="{
+           'is-invalid' : form.controls.searchBox.invalid && form.controls.searchBox.touched,
+           'is-valid': form.controls.searchBox.valid
+           }"
+           >
+
+    <div class="invalid-feedback"
+         *ngIf="form.controls.searchBox.invalid &&
+                        (form.controls.searchBox.dirty || form.controls.searchBox.touched)">
+      <span *ngIf="form.controls.searchBox.hasError('required')">
+        Please enter something
+      </span>
+    </div>
+  </div>
+    <button class="btn btn-primary mb-2" (click)="performSearch()">Search</button>
+  </form>
+

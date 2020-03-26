@@ -1,0 +1,8 @@
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Domain\bin\Debug\netcoreapp2.2\InterviewTest.Domain.deps.json
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Domain\bin\Debug\netcoreapp2.2\InterviewTest.Domain.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Domain\bin\Debug\netcoreapp2.2\InterviewTest.Domain.pdb
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Domain\obj\Debug\netcoreapp2.2\InterviewTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Domain\obj\Debug\netcoreapp2.2\InterviewTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Domain\obj\Debug\netcoreapp2.2\InterviewTest.Domain.AssemblyInfo.cs
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Domain\obj\Debug\netcoreapp2.2\InterviewTest.Domain.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Domain\obj\Debug\netcoreapp2.2\InterviewTest.Domain.pdb

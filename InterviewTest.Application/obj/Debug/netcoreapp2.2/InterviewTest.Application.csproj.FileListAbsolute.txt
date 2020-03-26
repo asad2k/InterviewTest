@@ -1,0 +1,12 @@
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\bin\Debug\netcoreapp2.2\InterviewTest.Application.deps.json
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\bin\Debug\netcoreapp2.2\InterviewTest.Application.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\obj\Debug\netcoreapp2.2\InterviewTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\obj\Debug\netcoreapp2.2\InterviewTest.Application.AssemblyInfoInputs.cache
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\obj\Debug\netcoreapp2.2\InterviewTest.Application.AssemblyInfo.cs
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\bin\Debug\netcoreapp2.2\InterviewTest.Domain.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\obj\Debug\netcoreapp2.2\InterviewTest.Application.csprojAssemblyReference.cache
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\bin\Debug\netcoreapp2.2\InterviewTest.Application.pdb
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\bin\Debug\netcoreapp2.2\InterviewTest.Domain.pdb
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\obj\Debug\netcoreapp2.2\InterviewTest.Application.csproj.CopyComplete
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\obj\Debug\netcoreapp2.2\InterviewTest.Application.dll
+C:\Users\Dream\source\repos\InterviewTest\InterviewTest.Application\obj\Debug\netcoreapp2.2\InterviewTest.Application.pdb

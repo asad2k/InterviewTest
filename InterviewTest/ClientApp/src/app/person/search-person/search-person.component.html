@@ -1,0 +1,6 @@
+<app-shared-search-box-component></app-shared-search-box-component>
+
+<div *ngIf="listData && listData.persons.length > 0">
+  <app-shared-list-person-component [data]="listData">
+  </app-shared-list-person-component>
+</div>
